@@ -83,7 +83,7 @@ const defaults = {
 	glintIntensity: 1, // The intensity of the glint
 	volumetric: false, // A mode where the raindrops appear in perspective
 	animationSpeed: 1, // The global rate that all animations progress
-	fps: 60, // The target frame rate (frames per second) of the effect
+	fps: 30, // The target frame rate (frames per second) of the effect
 	forwardSpeed: 0.25, // The speed volumetric rain approaches the eye
 	bloomStrength: 0.7, // The intensity of the bloom
 	bloomSize: 0.4, // The amount the bloom calculation is scaled
